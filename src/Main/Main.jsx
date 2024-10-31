@@ -15,7 +15,7 @@ const Main = () => {
 
             <div class="main">
     <div class="container">
-        <h1>Bienvenido a TimeRoster</h1>
+        <h1>Bienvenidos a Kronos</h1>
 
         <h2>Descripción del Proyecto</h2>
         <p>TimeRoster es una aplicación de gestión de horarios diseñada para facilitar el registro y seguimiento de la asistencia de empleados. Permite al administrador registrar horas de entrada y salida, gestionar ausencias y calcular automáticamente horas trabajadas y horas extras.</p>
